@@ -1,0 +1,7 @@
+# 项目排除路径
+/jiyun-eureka-server/target/
+/jiyun-gateway/target/
+/jiyun-service/jiyun-service-goods/target/
+/jiyun-service/jiyun-service-goods-9002/target/
+/jiyun-service/jiyun-service-order/target/
+/jiyun-service-api/jiyun-service-goods-api/target/
